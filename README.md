@@ -8,4 +8,3 @@
 </p>
 <p align="center">Welcome to the SingleLink API Github repository. Here you can browse the source, view open issues and monitor development.</p>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
